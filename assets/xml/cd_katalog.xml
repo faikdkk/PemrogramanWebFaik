@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+	<CD>
+		<TITLE>Empire Burlesque</TITLE>
+		<ARTITST>Bob Dylan</ARTITST>
+		<COUNTRY>USA</COUNTRY>
+		<COMPANY>Columbia</COMPANY>
+		<PRICE>10.90</PRICE>
+		<YEAR>1985</YEAR>
+	</CD>
+	<CD>
+		<TITLE>Hide your Heart</TITLE>
+		<ARTITST>Boonie Tyler</ARTITST>
+		<COUNTRY>UK</COUNTRY>
+		<COMPANY>CBS Records</COMPANY>
+		<PRICE>9.90</PRICE>
+		<YEAR>1988</YEAR>
+	</CD>
+	<CD>
+		<TITLE>Greatest Hits</TITLE>
+		<ARTITST>Dolly Parton</ARTITST>
+		<COUNTRY>USA</COUNTRY>
+		<COMPANY>RCA</COMPANY>
+		<PRICE>9.90</PRICE>
+		<YEAR>1982</YEAR>
+	</CD>
+	<CD>
+		<TITLE>Picture Book</TITLE>
+		<ARTITST>Simply Red</ARTITST>
+		<COUNTRY>EU</COUNTRY>
+		<COMPANY>Elektra</COMPANY>
+		<PRICE>7.20</PRICE>
+		<YEAR>1985</YEAR>
+	</CD>
+	<CD>
+		<TITLE>Red</TITLE>
+		<ARTITST>The Communards</ARTITST>
+		<COUNTRY>UK</COUNTRY>
+		<COMPANY>London</COMPANY>
+		<PRICE>7.80</PRICE>
+		<YEAR>1987</YEAR>
+	</CD>
+	<CD>
+		<TITLE>Unchain my Heart</TITLE>
+		<ARTITST>Joe Cocker</ARTITST>
+		<COUNTRY>USA</COUNTRY>
+		<COMPANY>EMI</COMPANY>
+		<PRICE>8.20</PRICE>
+		<YEAR>1987</YEAR>
+	</CD>
+</CATALOG>
